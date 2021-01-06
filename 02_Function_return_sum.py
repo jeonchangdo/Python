@@ -3,10 +3,9 @@
 
 # 함수 정의 부분
 def sum() :
-    op = input('연산자 : ')
     n1 = int(input('숫자 1 입력 : '))
     n2 = int(input('숫자 2 입력 : '))
-    return  n1 op n2
+    return  n1 + n2
 
 # main(호출부분)
 

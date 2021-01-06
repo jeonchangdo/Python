@@ -1,4 +1,4 @@
-# 사칙연산함수.py
+# 03_Function_param_four.py
 # 값 두개를 전달받아 +,-,*,/ 정의
 def add(n1,n2) :
     return n1 + n2
